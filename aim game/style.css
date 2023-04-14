@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(90deg,#b199ce,#945ed5,#6700e9 );
+    overflow: hidden;
+}
+
+button{
+    background: linear-gradient(90deg,#b199ce,#945ed5 );
+    border: 1px solid rgb(199, 199, 199);
+    color: white ;
+}
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.container button{
+    height: 80px;
+    border-radius: 50%;
+    font-size:2rem;
+    margin:300px 930px;
+}
